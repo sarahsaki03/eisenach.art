@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Alumni";
+    src: url(Alumni_Sans_Pinstripe/AlumniSansPinstripe-Regular.ttf);
+}
+body{background-color: black;}
+.eisenach {font-size: 4em; font-family: "Alumni";color: bisque; text-align: right;margin-top: 42px;}
+.zwischen {font-size: 4em; font-family: "Alumni";color: bisque; text-align: right;margin: 0;}
+.zitat {font-size: 2.5em; font-family:"Alumni" ;color: bisque;text-align: center;font-weight: bolder;}
+
+.blubbi {width: 100px; height: auto;padding: 0 80px;}
+.rotate {rotate: 90deg;}
+
+ul{text-align: center;}
+li{display: inline;padding: 0 10px;}
+.menü{text-align: center;display: inline;padding: 0 10px;font-size: 2.0em; 
+    font-family:"Alumni" ;color: beige;text-align: center;font-weight: bolder;
+text-decoration: none;}
+
+.lachs {width: 600px;height: auto;margin: 0 auto; display: block;}
+
+h2{font-size: 2.5em;font-family:"Alumni" ;color: bisque;text-align: center;
+    font-weight: bolder; margin-bottom: 0;}
+
+address{font-size:1.25em; font-family:"Alumni" ;color: white;text-align: center; 
+    font-weight: lighter;font-style: normal;}
+address span{display: block;}
+
+.instagram {font-size:2rem; font-family:"Alumni" ;color: beige;text-align: center; 
+    font-weight: lighter;font-style: normal;text-decoration: none;margin: 0;}
+#instagram::before{content: "@";}
+
+.email{font-size: 2rem;font-family: "Alumni";color: beige;text-align: center;
+font-weight: lighter;font-style: normal;text-decoration: none; margin: 0;}
+
+.zurück {font-size:2rem; font-family:"Alumni" ;color: white;text-align: right; 
+    font-weight: lighter;font-style: normal;text-decoration: none; margin: 0;}
+a {text-decoration: none; color: beige;padding-bottom: 0; margin: 0;}   
+
+.shrimp {width: 900px;height: auto; margin: 0 auto; display: block  ;}
