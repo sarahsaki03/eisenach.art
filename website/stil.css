@@ -5,7 +5,10 @@
 body{background-color: black;}
 .eisenach {font-size: 4em; font-family: "Alumni";color: bisque; text-align: right;margin-top: 42px;}
 .zwischen {font-size: 4em; font-family: "Alumni";color: bisque; text-align: right;margin: 0;}
-.zitat {font-size: 2.5em; font-family:"Alumni" ;color: bisque;text-align: center;font-weight: bolder;}
+.zitat {font-size: 2.5em; font-family:"Alumni" ;color: bisque;text-align: center;font-weight: bolder;
+    line-height: 0%;}
+.autor {font-size: 2em;font-family: "Alumni";color: bisque;text-align: center;font-weight: bolder; 
+line-height: 0%;padding-bottom: 1em;}
 
 .blubbi {width: 100px; height: auto;padding: 0 80px;}
 .rotate {rotate: 90deg;}
